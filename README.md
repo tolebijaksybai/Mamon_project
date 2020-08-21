@@ -1,4 +1,4 @@
-# projectMamon
+Mamon
 Маленький сайт сделано с помошью HTML, CSS, JS, Flex, Grid
 
 
